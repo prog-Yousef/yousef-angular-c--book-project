@@ -1,0 +1,13 @@
+/* src/styles.scss */
+
+/* Gör HTML och body till full höjd */
+html, body {
+    height: 100%;
+  }
+  
+  /* Nollställ marginal och ställ in standard typsnitt */
+  body {
+    margin: 0;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+  }
+  
